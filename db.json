@@ -1,0 +1,10 @@
+{
+  "productos": [
+    { "titulo": "producto 1", "precio": 200 },
+    { "titulo": "producto 2", "precio": 300 },
+    { "titulo": "producto 3", "precio": 400 },
+    { "titulo": "producto 4", "precio": 500 },
+    { "titulo": "producto 5", "precio": 600 }
+  ],
+  "users": []
+}
